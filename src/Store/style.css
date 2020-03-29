@@ -1,0 +1,12 @@
+.done {
+    text-decoration: line-through;
+    color: red;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.show {
+    visibility: visible;
+}
